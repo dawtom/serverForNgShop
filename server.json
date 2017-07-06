@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "category": "book",
+      "name": "Lurd o teh rings",
+      "price": 55,
+      "id": 4
+    },
+    {
+      "category": "book",
+      "name": "jkl",
+      "price": 55,
+      "id": 8
+    },
+    {
+      "category": "CD",
+      "name": "Beatles - great album ",
+      "price": 549865,
+      "id": 10
+    },
+    {
+      "category": "Newspaper",
+      "name": "s;klfj",
+      "price": 988,
+      "id": 12
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "book"
+    },
+    {
+      "id": 2,
+      "name": "CD"
+    },
+    {
+      "name": "Newspaper",
+      "id": 3
+    }
+  ]
+}
